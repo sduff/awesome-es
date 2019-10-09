@@ -18,6 +18,7 @@ Resources for getting started with Splunk Enterprise Security.
 - [Splunk Website](https://splunk.com)
   - [Downloads](https://www.splunk.com/download)
   - [Previous Releases](https://www.splunk.com/page/previous_releases)
+  - [Awesome Splunk](https://github.com/sduff/awesome-splunk) - A curated list of awesome Splunk resources.
 - [Splunk Enterprise Security Homepage](http://www.splunk.com/view/enterprise-security-app/SP-CAAAE8Z)
   - [Downloads](https://splunkbase.splunk.com/app/263/) - Download page for licensed users.
   - [Documentation](https://docs.splunk.com/Documentation/ES/latest)
