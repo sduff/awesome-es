@@ -1,8 +1,17 @@
 {
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/sduff/awesome-es.git"
+	},
+	"license": "CC0-1.0",
 	"scripts": {
-		"test": "awesome-lint"
+		"test": "mdspell -r -x -n README.md && awesome-lint "
 	},
 	"devDependencies": {
-		"awesome-lint": "*"
+		"awesome-lint": "*",
+		"markdown-spellcheck": "*"
+	},
+	"dependencies": {
+		"sinon-as-promised": "^4.0.3"
 	}
 }
