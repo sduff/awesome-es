@@ -33,7 +33,7 @@ Resources for getting started with Splunk Enterprise Security.
     - [Suggested Learning Path](https://www.splunk.com/en_us/training/learning-path/courses-for-enterprise-security-administrators/overview.html)
 - Certifications
   - [Splunk Enterprise Security Certified Admin](https://www.splunk.com/en_us/training/certification-track/splunk-es-certified-admin/overview.html)
-  - [Splunk Enterprise Security Certified Admin Blueprint](https://www.splunk.com/content/dam/splunk2/pdfs/training/Splunk-Test-Blueprint-ES-Admin-v.1.1.pdf) - A guide to the examinable material in the ES Admin certification.
+    - [Splunk Enterprise Security Certified Admin Blueprint](https://www.splunk.com/content/dam/splunk2/pdfs/training/Splunk-Test-Blueprint-ES-Admin-v.1.1.pdf) - A guide to the examinable material in the ES Admin certification.
 
 ## Professional Services
 
@@ -53,7 +53,7 @@ Need to get the experts involved in an Enterprise Security implementation, or se
 
 Selected .conf presentations related to various aspects of Splunk Enterprise Security.
 
--[All .Conf Presentations for Enterprise Security](https://conf.splunk.com/watch/conf-online.html?search.products=1518807815929004Tieu#/)
+- [All .Conf Presentations for Enterprise Security](https://conf.splunk.com/watch/conf-online.html?search.products=1518807815929004Tieu#/)
 - [How to Migrate from Legacy SIEM to Splunk](https://static.rainfocus.com/splunk/splunkconf18/sess/1523486455444001luSF/finalPDF/Assessing-Threat-Intelligence-Sharing-1571_1538782551848001rhKL.pdf)
 - [Enterprise Security Multi-Tenant Fundamentals](https://conf.splunk.com/files/2017/slides/analytic-stories-or-how-i-learned-to-stop-worrying-and-respond-to-threats.pdf)
 
