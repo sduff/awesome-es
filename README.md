@@ -43,6 +43,11 @@ Need to get the experts involved in an Enterprise Security implementation, or se
 - [Splunk Security and Compliance Service Offerings](https://www.splunk.com/en_us/support-and-services/splunk-services/offerings/security-and-compliance-services.html)
 - [Splunk Partners for Enterprise Security Implementation](https://partners.splunk.com/locator/search?f0=Professional+Services+Specializations&f0v0=ES+Implementation)
 
+## Risk Based Alerting
+- [RBA All Day](https://rbaallday.com) - Reduce noise by using a Risk Based approach to notable event generation.
+  - [SA-RBA](https://github.com/apger/SA-RBA) - Solution AddOn for ES, adds custom visualisations and correlation searches for RBA.
+  - [Phantom RBA](https://github.com/kelby-shelton/phantom-rba) - Phantom functions for RBA investigations and enrichment.
+
 ## SOAR Integration
 - [Splunk Phantom](https://www.splunk.com/en_us/software/splunk-security-orchestration-and-automation.html)
   - [Awesome Phantom](https://github.com/ryanplasma/awesome-splunk-phantom) - Awesome resources for Splunk Phantom.
